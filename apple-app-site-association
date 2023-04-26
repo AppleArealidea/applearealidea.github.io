@@ -8,19 +8,19 @@
                 "components": [
                     {
                         "/": "/",
-                        "comment": ""
+                        "comment": "Переход с главной страницы"
                     },
                     {
                         "/": "/catalog/*",
-                        "comment": ""
+                        "comment": "Переход с товара из каталога"
                     },
                     {
                         "/": "/izbrannoe/",
-                        "comment": ""
+                        "comment": "Переход в избранное"
                     },
                     {
                         "/": "/korzina/",
-                        "comment": ""
+                        "comment": "Переход в корзину"
                     }
                 ]
             }
