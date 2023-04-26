@@ -1,0 +1,29 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "HNZG8PLWWM.ru.arealidea.kuchenland.ios"
+                ],
+                "components": [
+                    {
+                        "/": "/",
+                        "comment": ""
+                    },
+                    {
+                        "/": "/catalog/*",
+                        "comment": ""
+                    },
+                    {
+                        "/": "/izbrannoe/",
+                        "comment": ""
+                    },
+                    {
+                        "/": "/korzina/",
+                        "comment": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
