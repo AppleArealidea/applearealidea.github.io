@@ -8,19 +8,19 @@
                 "components": [
                     {
                         "/": "/",
-                        "comment": ""
+                        "comment": "Redirect from start page"
                     },
                     {
                         "/": "/catalog/*",
-                        "comment": ""
+                        "comment": "Redirect from item page in catalog"
                     },
                     {
                         "/": "/izbrannoe/",
-                        "comment": ""
+                        "comment": "Redirect from favorite page"
                     },
                     {
                         "/": "/korzina/",
-                        "comment": ""
+                        "comment": "Redirect from basket page"
                     }
                 ]
             }
